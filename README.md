@@ -8,5 +8,3 @@ Help me by giving me a star. That helps a lot.
 ## Note:
 I haven't updated my sheet about these simple RISCV design yet because I can't find them anywhere in my notebook.
 Should retrieve that thing from a ton of folders...
-
-
